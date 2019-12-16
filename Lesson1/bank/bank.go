@@ -8,6 +8,9 @@ func percentFunc(s, per float64) float64 {
 	s += digPer
 	return s
 }
+func lost(a ...int) []int {
+	return int...
+}
 
 func main() {
 	var score float64
