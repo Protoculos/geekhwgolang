@@ -1,3 +1,4 @@
+//3. * Реализовать очередь.
 package main
 
 import "fmt"
